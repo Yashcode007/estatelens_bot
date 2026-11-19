@@ -1,0 +1,27 @@
+To: careers@darglobal.co.uk
+Subject: Senior AI Engineer – Agentic Systems | Technical Assignment Submission
+
+Dear Hiring Team,
+
+Thank you for the opportunity to progress to the next stage for the Senior AI Engineer – Agentic Systems role.
+
+Please find my details below:
+
+Current location: Uttar Pradesh, India
+Current package: INR 12.5 LPA
+Expected package: INR 20 LPA
+Notice period: 2 months (negotiable)
+
+I have completed the technical assignment and deployed EstateLens, a property research chatbot using publicly available DarGlobal and Wasalt data.
+
+Working URL:
+https://estate-lens-darglobal-wasalt.jocundclout8.chatgpt.site
+
+The solution uses a free model through OpenRouter and includes source citations, property filters, a searchable source library, and a Docker setup. The attached source package includes the collection scripts, dataset provenance, architecture and setup documentation, and validation results.
+
+I tested six live scenarios covering project comparisons, budget-based searches, amenities, property details, missing data, and no matching results. All six checks passed. Data collection limitations and snapshot freshness are documented in the README.
+
+Please find the codebase attached as EstateLens-Submission.zip. I would welcome the opportunity to discuss the implementation and the tradeoffs behind it.
+
+Best regards,
+[Your Name]

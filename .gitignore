@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+node_modules/
+artifacts/
+data/raw/
+data/refresh-report.json
