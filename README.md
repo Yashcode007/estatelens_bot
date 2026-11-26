@@ -1,6 +1,6 @@
 # EstateLens — property intelligence
 
-A source-grounded research chatbot for DarGlobal developments and selected Wasalt listings. The UI includes conversational research, source/city/budget filters, a searchable source library, downloadable data, and transparent AI/provider status.
+A source-grounded research chatbot for DarGlobal developments and selected Wasalt listings. The UI includes conversational research, source/city/budget filters, a searchable source library, downloadable data, and transparent AI/provider status .
 
 Live demo: https://estate-lens-darglobal-wasalt.jocundclout8.chatgpt.site
 
